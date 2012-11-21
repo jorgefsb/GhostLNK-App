@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Gusanito Emoji</string>
+		<key>description</key>
+		<string>Emoticons, icons and symbols of wamba, wippo and familiy</string>
+		<key>link</key>
+		<string></string>
+		<key>icon</key>
+		<string>icon_8.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ghost Link</string>
+		<key>description</key>
+		<string>Próximamente</string>
+		<key>link</key>
+		<string></string>
+		<key>icon</key>
+		<string>icon_7.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Misal 2012</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fmx%252Fapp%252Fmisal-2012%252Fid490423084%253Fmt%253D8%2526uo%253D4%2526partnerId%253D3</string>
+		<key>icon</key>
+		<string>icon_1.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Misal 2011</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fmx%252Fapp%252Fmisal-2011%252Fid448307739%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_1.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>US Border Wait time</string>
+		<key>description</key>
+		<string>Tiempo de espera para cruzar frontera desde México a EU en coche</string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fmx%252Fapp%252Fus-border-wait-time-tiempo%252Fid441109185%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_2.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Vaticano</string>
+		<key>description</key>
+		<string>Noticias, Radio en linea y biblia</string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fmx%252Fapp%252Fvaticano-noticias-radio-en%252Fid436687586%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_3.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tráfico de Guadalajara</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftrafico-de-guadalajara%252Fid428607370%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_4.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Nudos de corbata en video con separación de color</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fmx%252Fapp%252Fnudos-corbata-en-video-con%252Fid436654120%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_5.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Guerras Electorales</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fmx%252Fapp%252Fguerras-electorales%252Fid514441394%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_6.jpg</string>
+	</dict>
+</array>
+</plist>

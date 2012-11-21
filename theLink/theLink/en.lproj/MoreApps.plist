@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Gusanito Emoji</string>
+		<key>description</key>
+		<string>Emoticons, icons and symbols of wamba, wippo and familiy</string>
+		<key>link</key>
+		<string></string>
+		<key>icon</key>
+		<string>icon_8.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ghost Link</string>
+		<key>description</key>
+		<string>Coming Soon</string>
+		<key>link</key>
+		<string></string>
+		<key>icon</key>
+		<string>icon_7.png</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Missal in audio and Daily Readings</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fmissal-in-audio-daily-readings%252Fid455967431%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_1.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>US Border Wait Time</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fus-border-wait-time%252Fid441109185%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_2.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Vatican</string>
+		<key>description</key>
+		<string>News, Online Radio and the bible in American English</string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fvatican-news-online-radio%252Fid441843676%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_3.jpg</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Election Wars and Cheats</string>
+		<key>description</key>
+		<string></string>
+		<key>link</key>
+		<string>http://click.linksynergy.com/fs-bin/stat?id=t2lzWo0r0/E&amp;offerid=243958&amp;type=3&amp;subid=0&amp;tmpid=1826&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Felection-wars-and-cheats%252Fid541896503%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30</string>
+		<key>icon</key>
+		<string>icon_6.jpg</string>
+	</dict>
+</array>
+</plist>
